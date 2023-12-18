@@ -1,0 +1,6 @@
+2023-12-18 01:50:48 DEBUG Starting new HTTPS connection (1): test-stand.gb.ru:443
+2023-12-18 01:50:49 DEBUG https://test-stand.gb.ru:443 "POST /gateway/login HTTP/1.1" 200 234
+2023-12-18 01:50:49 INFO Test Start 5 API
+2023-12-18 01:50:49 DEBUG Starting new HTTPS connection (1): test-stand.gb.ru:443
+2023-12-18 01:50:49 DEBUG https://test-stand.gb.ru:443 "GET /api/posts?owner=notMe HTTP/1.1" 200 1075
+2023-12-18 01:50:49 INFO Test 5 finished

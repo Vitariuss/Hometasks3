@@ -1,0 +1,21 @@
+xpath:
+  LOCATOR_LOGIN: //*[@id="login"]/div[1]/label/input
+  LOCATOR_PASS: //*[@id="login"]/div[2]/label/input
+  LOCATOR_ERROR: //*[@id="app"]/main/div/div/div[2]/h2
+  LOCATOR_H1_BLOG: /html/body/div[1]/main/div/div[1]/h1
+  LOCATOR_BTN_Setting: /html/body/div[1]/main/nav/ul/li[3]/a
+  LOCATOR_BTN_PROFILE: /html/body/div[1]/main/nav/ul/li[3]/div/ul/li[1]/span[2]
+  LOCATOR_BTN_NEW_POST: //*[@id="create-btn"]
+  LOCATOR_POST_TITLE: /html/body/div[1]/main/div/div/div[3]/div[2]/div/div[2]/div/form/div/div/div[1]/div/label/input
+  LOCATOR_POST_CONTENT: //*[@id="update-post-item"]/div/div/div[3]/div/label/span/textarea
+  LOCATOR_POST_BTN_SAVE: html/body/div[1]/main/div/div/div[3]/div[2]/div/div[2]/div/form/div/div/div[7]/div/button
+  LOCATOR_H1_TITLE_NEW_POST: /html/body/div[1]/main/div/div[1]/h1
+  LOCATOR_HREF_HOME: //*[@id="app"]/main/nav/a
+  LOCATOR_LOGOUT: //*[@id="app"]/main/nav/ul/li[3]/div/ul/li[3]
+  LOCATOR_HREF_CONTACT: //*[@id="app"]/main/nav/ul/li[2]/a
+  LOCATOR_FIELD_NAME: //*[@id="contact"]/div[1]/label/input
+  LOCATOR_FIELD_EMAIL: //*[@id="contact"]/div[2]/label/input
+  LOCATOR_FIELD_CONTENT: //*[@id="contact"]/div[3]/label/span/textarea
+  LOCATOR_BTN_CONTACT_US: //*[@id="contact"]/div[4]/button
+css:
+  LOCATOR_BTN_LOG: button
